@@ -7,3 +7,5 @@
 * A successful unlock is indicated by a visual indication(door opening).
 
 We use Arduino IDE with SAMD21 package to run the code. Put the two files in C:\Program Files (x86)\Arduino\libraries directory, then build a new Arduino project. 
+!(/images/acc.png)
+Format: ![Alt Text](url)
